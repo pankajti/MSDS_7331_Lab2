@@ -2,9 +2,6 @@
 
 ------------------------
 Category |	Available |	Requirements
-
------------------------------------
----
 Total | Points | 	100
 Data Preparation Part 1 |	10 |	Define and prepare your class variables. Use proper variable representations (int, float, one-hot, etc.). Use pre-processing methods (as needed) for dimensionality reduction, scaling, etc. Remove variables that are not needed/useful for the analysis.
 Data Preparation Part 2	| 5	| Describe the final dataset that is used for classification/regression (include a description of any newly formed variables you created).
