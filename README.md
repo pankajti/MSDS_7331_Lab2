@@ -20,3 +20,13 @@ For smu class MSDS 7331 fall 2019 Lab 2
 | Modeling and Evaluation 6 |	10 |	Which attributes from your analysis are most important? Use proper methods discussed in class to evaluate the importance of different attributes. Discuss the results and hypothesize about why certain attributes are more important than others for a given classification task. |
 | Deployment	| 5	| How useful is your model for interested parties (i.e., the companies or organizations that might want to use it for prediction)? How would you measure the model's value if it was used by these parties? How would your deploy your model for interested parties? What other data should be collected? How often would the model need to be updated, etc.? |
 | Exceptional Work | 10 | You have free reign to provide additional analyses. One idea: grid search parameters in a parallelized fashion and visualize the performances across attributes. Which parameters are most significant for making a good model for each classification algorithm? | 
+
+
+## Tasks 
+
+1) For Rubric item #1 to #4 that is data preperation and modelling and evaluation #1 and #2 Deepti will complete from her side based on mini lab and additional work on top of that. 
+2) Deployment Deepti will handle.
+3) We decided to use 3 models , decision tree , random forest and knn.
+4) modelling and evaluation tasks #3 to #6 for knn will be done by Ryan 
+5) modelling and evaluation tasks #3 to #6 for random forest and decison tree will be done by Pankaj.
+6) Any additional work load will be shared based on our discussion and communication over mail/slack
