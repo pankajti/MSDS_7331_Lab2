@@ -24,9 +24,9 @@ For smu class MSDS 7331 fall 2019 Lab 2
 
 ## Tasks 
 
-1) For Rubric item #1 to #4 that is data preperation and modelling and evaluation #1 and #2 Deepti will complete from her side based on mini lab and additional work on top of that. 
+1) For Rubric item #1 to #4 that is data preparation and modeling and evaluation #1 and #2 Deepti will complete from her side based on mini lab and additional work on top of that. 
 2) Deployment Deepti will handle.
 3) We decided to use 3 models , decision tree , random forest and knn.
-4) modelling and evaluation tasks #3 to #6 for knn will be done by Ryan 
-5) modelling and evaluation tasks #3 to #6 for random forest and decison tree will be done by Pankaj.
+4) modeling and evaluation tasks #3 to #6 for knn will be done by Ryan 
+5) modeling and evaluation tasks #3 to #6 for random forest and decision tree will be done by Pankaj.
 6) Any additional work load will be shared based on our discussion and communication over mail/slack
